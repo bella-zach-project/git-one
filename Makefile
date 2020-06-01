@@ -8,3 +8,6 @@ git-init:
 
 hello:
 	echo Hello
+
+rm-cache:
+	git rm --cached another-Makefile
